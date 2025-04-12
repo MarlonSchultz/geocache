@@ -1,0 +1,7 @@
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/unity.dir
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/edit_cache.dir
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/rebuild_cache.dir
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/list_install_components.dir
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/install.dir
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/install/local.dir
+/Users/marlon/Documents/PlatformIO/Projects/geocache/build/CMakeFiles/install/strip.dir
