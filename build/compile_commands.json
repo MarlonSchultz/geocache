@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/marlon/Documents/PlatformIO/Projects/geocache/build",
-  "command": "/usr/bin/cc  -I/Users/marlon/Documents/PlatformIO/Projects/geocache/.pio/libdeps/esp32dev/Unity/src -I/Users/marlon/Documents/PlatformIO/Projects/geocache/build -g -std=c11 -arch arm64 -o CMakeFiles/unity.dir/src/unity.c.o -c /Users/marlon/Documents/PlatformIO/Projects/geocache/.pio/libdeps/esp32dev/Unity/src/unity.c",
-  "file": "/Users/marlon/Documents/PlatformIO/Projects/geocache/.pio/libdeps/esp32dev/Unity/src/unity.c",
-  "output": "CMakeFiles/unity.dir/src/unity.c.o"
-}
-]
